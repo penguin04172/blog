@@ -1,7 +1,7 @@
 ---
 title: 關於
 slug: "about"
-description: Hugo, the world's fastest framework for building websites
+description: 人生100問，從勞工變奴工
 date: '2024-03-05'
 aliases:
   - about-us
