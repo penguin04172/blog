@@ -26,11 +26,17 @@ languages:
         weight: 2
         params:
             description: 演示说明
+    zh-tw:
+        languageName: 繁體中文
+        title: 演示網站
+        weight: 3
+        params:
+            description: 演示說明
     ar:
         languageName: عربي
         languagedirection: rtl
         title: موقع تجريبي
-        weight: 3
+        weight: 4
         params:
             description: وصف تجريبي
 
