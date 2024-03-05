@@ -50,7 +50,7 @@ params:
 
     sidebar:
         emoji: 
-        subtitle: 記錄了許多在機器人競賽中的小碎冰
+        subtitle: 記錄了許多生活中的小碎冰
         avatar:
             enabled: true
             local: true
@@ -199,18 +199,21 @@ menu:
         - identifier: github
           name: GitHub
           url: https://github.com/penguin04172
+          weight: 1
           params:
               icon: brand-github
 
         - identifier: facebook
           name: Facebook
           url: https://facebook.com/penguin04172
+          weight: 2
           params:
               icon: brand-facebook
               
         - identifier: instagram
           name: Instagram
           url: https://instagram.com/penguin04172
+          weight: 3
           params:
               icon: brand-instagram
 
